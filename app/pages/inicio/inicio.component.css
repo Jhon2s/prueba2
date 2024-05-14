@@ -1,0 +1,122 @@
+.shop-body{
+    position: absolute;
+    text-align: center;
+    font-size: 15px;
+   color: #ffffff;
+   left: 140px;
+}
+.letra{
+    font-size: 25px;
+    color: rgb(45, 44, 43);
+    justify-content: center;
+}
+
+.shop-header{
+    display: flex;
+}
+.img-responsive1{
+    width: 230px;
+    height: auto;
+    
+   
+
+}
+.img-responsive2{
+    width: 230px;
+    height: auto;
+    margin: 0px 30px;
+   
+  
+}
+.img-responsive3{
+    width: 230px;
+    height: auto;
+ 
+    margin: 0px 60px;
+}
+.img-responsive4{
+    width: 230px;
+    height: auto;
+   
+    margin: 0px 90px;
+}
+.img-responsive5{
+    width: 230px;
+    height: auto;
+  
+    margin: 0px 130px;
+}
+.img-responsive6{
+    width: 230px;
+    height: auto;
+   
+    margin: 0px 160px;
+
+}
+.img-responsive7{
+    width: 230px;
+    height: auto;
+    
+    margin: 0px 180px;
+}
+
+.shop{
+    display: flex;
+}
+.container{
+    display: flex;
+    justify-content: center;
+   
+    
+    margin: 0px 0px 40px 0px;
+    
+}
+.product{
+    display: flex;
+    padding: 1px;
+    width: 210px;
+    height:200px ;
+    
+    justify-content: center;
+   
+    margin: 40px 0px 0px 5px;
+
+}
+.product-img{
+    width: 100%;
+    list-style: none;
+    position: relative;
+}
+.text-justify{
+    margin-top: 50px;
+    text-align: left;
+    color: rgb(22, 21, 21);
+    
+}
+.message-box{
+    
+    position: relative;
+    bottom: -35px;
+    right: 500px;
+}
+.heading{
+    position: relative;
+    bottom: -30px;
+    right: 85px;
+    font-size: 18px;
+}
+.img{
+    width: 150px;
+    height: 150px;
+}
+.calis{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 40px;
+}
+.products-slick{
+    display: flex;
+    width: 370px;
+
+}
